@@ -1,0 +1,3 @@
+git fetch upstream
+git checkout branchname
+git push -u origin branchname
